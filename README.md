@@ -22,6 +22,6 @@ Please use the invitation link on KLMS to join the Slack workspace. Your Slack I
 
 ### CS Honor Code
 
-Download the PDF from [here]. Fill it it and add signature, either digitally or on paper. Commit and push a pdf file named `[Your student ID]-honor-code-signed.pdf` (if you sign it on a paper, a scan using a phone camera is fine - but make sure it is a PDF file). This should be pushed WITH the `info.txt` file described above (so that we can check the filename).
+Download the PDF from [here](https://coinse.kaist.ac.kr/assets/files/teaching/cs453/cs453-2021-spring-honor-code.pdf). Fill it it and add signature, either digitally or on paper. Commit and push a pdf file named `[Your student ID]-honor-code-signed.pdf` (if you sign it on a paper, a scan using a phone camera is fine - but make sure it is a PDF file). This should be pushed WITH the `info.txt` file described above (so that we can check the filename).
 
 The grading script only checks the presence of a file with the correct filename, but we will manually check whether you signed. You HAVE to sign the honor code to take this course - otherwise we are not grading your courseworks and exams.
