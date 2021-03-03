@@ -3,7 +3,7 @@ import subprocess
 
 def test_hello():
 	cmd = ["python3", "hello.py"]
-	ret = subprocess.run(cmd, capture_output=True, text=True)
+	ret = subprocess.run(cmd, stdout=subprocess.PIPE, text=True)
 	assert ret.stdout == "Hello!"
 
 def test_info():
