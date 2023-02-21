@@ -28,4 +28,4 @@ The grading script only checks the presence of a file with the correct filename,
 
 ### Submission Deadline
 
-You need to submit this assignment before **18:00 on 10th of March, 2021.**
+You need to submit this assignment before **18:00 on 6th of March, 2023.**
