@@ -2,7 +2,7 @@
 
 This is a psuedo-assignment that is designed to get you onboard in GitHub classroom. You need to perform two simple tasks.
 
-- Push an one-line Python programm that prints "Hello!"
+- Push an one-line Python program that prints "Hello!"
 - Push an one-line text file with your class-related information.
 - Push a signed CS Honor code
 
