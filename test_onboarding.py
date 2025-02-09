@@ -7,8 +7,8 @@ def test_hello():
 	assert ret.stdout == "Hello!"
 
 def test_info():
-	with open("info.txt", "r") as f:
-		line = f.readlines()[0].strip()
+	with open("pledge.txt", "r") as f:
+		line = f.readlines()[-1].strip()
 		tokens = [t.strip() for t in line.split(",")]
 		
 		slack_id = tokens[-1]
