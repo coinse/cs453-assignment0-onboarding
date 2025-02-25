@@ -4,16 +4,17 @@ This is a psuedo-assignment that is designed to get you onboard in GitHub classr
 
 - CS453 does not allow any use of generative AI models. Do your own thinking and programming. 
 - All assignments and reports are to be written and submitted in English.
-- CS453 uses GitHub Classroom to collect assignment deliverables. Assignments should be pushed to the branch `main` (**NOT** `master`).
 - Reports should be submitted in PDF format: do not submit raw Markdown files, text files, MS Word files, etc.
+- CS453 uses GitHub Classroom to collect assignment deliverables. Assignments should be pushed to the branch `main` (**NOT** `master` or any other branches).
+- Do NOT change your GitHub ID that you use for assignments during the semester.
 - Late submissions are allowed for one extra week from the deadline, and a penalty multiplier of 0.7 will be applied. Submissions thare are more than one week late will not be graded.
 
 ### The Deliverable for this assignment
 
 You need to perform two simple tasks.
 
-- Push a Python program that prints the class rules listed above.
-- Push an one-line text file with your class-related information.
+- Push a Python Hello World program, `hello.py`.
+- Push a text file, `pledge.txt`, which contains your class-related information.
 
 ### The Python Program
 
